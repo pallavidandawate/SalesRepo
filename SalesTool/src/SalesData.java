@@ -5,6 +5,6 @@ public class SalesData {
 	public void display(){
 		System.out.println("to be implemented...");
 		
-		System.out.println("change 1");
+	//	System.out.println("change 1");
 	}
 }
